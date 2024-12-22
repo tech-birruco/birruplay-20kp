@@ -17,10 +17,10 @@ export default function CTASection() {
             <span className="text-primary-600">Kehilangan Kesempatan!</span>{' '}
           </h2>
           <p className="text-xl text-gray-700 mb-8">
-          Bangun koneksi lebih dekat antara anak dan Ayah Bunda, bantu anak mengungkapkan keinginannya dengan percaya diri, dan ciptakan lingkungan yang supportif mulai hari ini
+            Bangun koneksi lebih dekat antara anak dan Ayah Bunda, bantu anak bercerita dengan percaya diri, dan ciptakan masa depan yang cerah mulai hari ini
           </p>
           <CTAButton className="bg-primary-500 text-white px-12 py-5 rounded-full text-lg font-semibold hover:bg-primary-600 mb-8">
-            Mulai Perjalanan Bicara Anak Sekarang!
+            Mulai Perjalanan Cerita Anak Sekarang!
           </CTAButton>
           <div className="flex flex-wrap justify-center gap-6 text-sm text-gray-600">
             <div className="flex items-center">

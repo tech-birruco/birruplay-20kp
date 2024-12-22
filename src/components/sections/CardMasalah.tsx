@@ -1,15 +1,15 @@
 const problems = [
   {
-    icon: "😭",
-    description: "Anak sering menangis atau tantrum karena kesulitan menyampaikan keinginannya?",
+    icon: "🧩",
+    description: "Anak kesulitan menyusun kalimat lengkap?",
   },
   {
-    icon: "☝️",
-    description: "Anak hanya menunjuk atau menggunakan isyarat tanpa kata-kata?",
+    icon: "💭",
+    description: "Anak kesulitan menjawab pertanyaan sehari-hari seperti Apa, Siapa, atau Dimana?",
   },
   {
     icon: "😵",
-    description: 'Ingin anak bisa berkata "mau makan", "aku mau main", tapi bingung cara mengajarkannya?',
+    description: 'Ingin membantu anak lebih percaya diri bercerita namun bingung harus mulai dari mana?',
   }
 ];
 

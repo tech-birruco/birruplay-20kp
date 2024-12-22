@@ -1,8 +1,8 @@
 const images = [
-  'https://tourmate.id/birruplay/wp-content/uploads/2024/12/48KP-1.png',
-  'https://tourmate.id/birruplay/wp-content/uploads/2024/12/48KP-2.png',
-  'https://tourmate.id/birruplay/wp-content/uploads/2024/12/48KP-3.png',
-  'https://tourmate.id/birruplay/wp-content/uploads/2024/12/48KP-4.png',
+  'https://tourmate.id/birruplay/wp-content/uploads/2024/10/id-11134207-7rasf-m0l8f9mou7uv36@resize_w900_nl.webp',
+  'https://tourmate.id/birruplay/wp-content/uploads/2024/10/id-11134207-7rasj-m0l8f9mp2n9j65.webp',
+  'https://tourmate.id/birruplay/wp-content/uploads/2024/10/id-11134207-7rasf-m0l8f9mozu4n63.webp',
+  'https://tourmate.id/birruplay/wp-content/uploads/2024/10/id-11134207-7ras9-m0l8f9mp18p300.webp',
 ];
 
 export default function Gallery() {

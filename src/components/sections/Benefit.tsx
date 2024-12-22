@@ -1,23 +1,23 @@
 const benefits = [
   {
-    icon: "💬",
-    description: "Mengungkapkan keinginannya dengan kalimat sederhana.",
+    icon: "🧩",
+    description: "Menyusun kalimat lengkap SPOK.",
   },
   {
-    icon: "🧩",
-    description: "Menyusun kalimat yang terdiri dari subjek, kata kerja, dan objek.",
+    icon: "💡",
+    description: "Memahami pertanyaan apa, siapa, dimana, kapan dan sedang apa.",
   },
   {
     icon: "📘",
-    description: "Menggunakan kata benda dan kata kerja.",
-  },
-  {
-    icon: "🧠",
-    description: 'Memahami dan menggunakan kata "mau" dan "aku" dalam konteks yang sesuai.',
+    description: "Menggunakan kata benda, kerja, hubung, keterangan, ganti dan kata sifat.",
   },
   {
     icon: "🚀",
-    description: "Meningkatkan kemampuan bahasa reseptif dan ekspresif 1 sd 3 kata.",
+    description: 'Meningkatkan kemampuan bahasa reseptif dan ekspresif 1 sd 7 kata.',
+  },
+  {
+    icon: "🧠",
+    description: "Meningkatkan kemampuan dalam bercerita.",
   }
 ];
 

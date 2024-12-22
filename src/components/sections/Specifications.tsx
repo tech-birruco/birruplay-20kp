@@ -7,9 +7,9 @@ export function Specifications() {
     { feature: "Jenis Cover", value: "Hardcover lapisan dalam spons, Laminasi doff, Spot UV" },
     { feature: "Isi Buku", value: "Double ivory, Laminasi glossy, Full color" },
     { feature: "Sudut", value: "Rounded" },
-    { feature: "Ukuran", value: "15 x 15 cm" },
-    { feature: "Tebal", value: "24 halaman" },
-    { feature: "Berat", value: "-+ 240 gr" }
+    { feature: "Ukuran", value: "20 x 20 cm" },
+    { feature: "Tebal", value: "10 halaman" },
+    { feature: "Berat", value: "-+ 300 gr" }
   ];
 
   return (
