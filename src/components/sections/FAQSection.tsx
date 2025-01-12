@@ -17,30 +17,25 @@ BestPrices.displayName = 'BestPrices';
 
 const faqs = [
   {
-    question: 'Untuk usia berapa buku ini cocok digunakan?',
-    answer: 'Buku ini dirancang khusus untuk anak usia 2-5 tahun yang sedang dalam tahap perkembangan atau mengalami masalah perkembangan bahasa bicara seperti speech delay.',
+    question: 'Untuk usia berapa buku Birru Play cocok digunakan?',
+    answer: 'Buku kami dirancang khusus untuk anak usia 2+ tahun yang sedang dalam tahap perkembangan atau mengalami masalah perkembangan bahasa bicara seperti speech delay dan masalah komunikasi lainnnya.',
     icon: '👶'
   },
   {
-    question: 'Berapa lama waktu yang dibutuhkan untuk melihat hasil?',
+    question: 'Berapa lama waktu yang dibutuhkan untuk melihat progres?',
     answer: 'Dengan penggunaan rutin sesuai panduan, mayoritas orang tua melaporkan peningkatan signifikan dalam 2-4 minggu pertama.',
-    icon: '⏰'
+    icon: '📈'
   },
   {
-    question: 'Apakah ada garansi untuk produk ini?',
-    answer: 'Ya, kami memberikan garansi 30 hari uang kembali jika Anda tidak puas dengan produk kami.',
+    question: 'Bagaimana cara mendapatkan panduannya?',
+    answer: 'Panduan lengkap penggunaan buku dan video tutorial akan dikirim setelah pesanan selesai.',
+    icon: '📽️'
+  },
+  {
+    question: 'Apakah ada garansi untuk produk Birru Play?',
+    answer: 'Ya, kami memberikan garansi 100% uang kembali dalam 14 hari jika Ayah Bunda tidak puas dengan produk kami.',
     icon: '✨'
   },
-  {
-    question: 'Bagaimana cara menggunakan buku ini dengan efektif?',
-    answer: 'Setiap buku dilengkapi dengan panduan lengkap dan video tutorial yang akan memandu Anda langkah demi langkah.',
-    icon: '📚'
-  },
-  {
-    question: 'Apakah ada harga spesial untuk pembelian dalam jumlah banyak?',
-    answer: <BestPrices />,
-    icon: '💰'
-  }
 ];
 
 export default function FAQSection() {
