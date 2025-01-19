@@ -1,11 +1,11 @@
 const images = [
-  'src/public/assets/ Slide 1.png',
-  'src/public/assets/ Slide 2.png',
-  'src/public/assets/ Slide 3.png',
-  'src/public/assets/ Slide 4.png',
-  'src/public/assets/ Slide 5.png',
-  'src/public/assets/ Slide 6.png',
-  'src/public/assets/ Slide 7.png',
+  'https://github.com/tech-birruco/birruplay-20kp/blob/main/src/public/assets/%20Slide%201.png?raw=true',
+  'https://github.com/tech-birruco/birruplay-20kp/blob/main/src/public/assets/%20Slide%202.png?raw=true',
+  'https://github.com/tech-birruco/birruplay-20kp/blob/main/src/public/assets/%20Slide%203.png?raw=true',
+  'https://github.com/tech-birruco/birruplay-20kp/blob/main/src/public/assets/%20Slide%204.png?raw=true',
+  'https://github.com/tech-birruco/birruplay-20kp/blob/main/src/public/assets/%20Slide%205.png?raw=true',
+  'https://github.com/tech-birruco/birruplay-20kp/blob/main/src/public/assets/%20Slide%206.png?raw=true',
+  'https://github.com/tech-birruco/birruplay-20kp/blob/main/src/public/assets/%20Slide%207.png?raw=true',
 ];
 
 export default function Gallery() {
