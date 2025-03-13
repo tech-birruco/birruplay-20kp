@@ -1,8 +1,11 @@
 const images = [
-  'https://tourmate.id/birruplay/wp-content/uploads/2024/10/id-11134207-7rasf-m0l8f9mou7uv36@resize_w900_nl.webp',
-  'https://tourmate.id/birruplay/wp-content/uploads/2024/10/id-11134207-7rasj-m0l8f9mp2n9j65.webp',
-  'https://tourmate.id/birruplay/wp-content/uploads/2024/10/id-11134207-7rasf-m0l8f9mozu4n63.webp',
-  'https://tourmate.id/birruplay/wp-content/uploads/2024/10/id-11134207-7ras9-m0l8f9mp18p300.webp',
+  'https://github.com/tech-birruco/birruplay-20kp/blob/main/src/public/assets/%20Slide%201.png?raw=true',
+  'https://github.com/tech-birruco/birruplay-20kp/blob/main/src/public/assets/%20Slide%202.png?raw=true',
+  'https://github.com/tech-birruco/birruplay-20kp/blob/main/src/public/assets/%20Slide%203.png?raw=true',
+  'https://github.com/tech-birruco/birruplay-20kp/blob/main/src/public/assets/%20Slide%204.png?raw=true',
+  'https://github.com/tech-birruco/birruplay-20kp/blob/main/src/public/assets/%20Slide%205.png?raw=true',
+  'https://github.com/tech-birruco/birruplay-20kp/blob/main/src/public/assets/%20Slide%206.png?raw=true',
+  'https://github.com/tech-birruco/birruplay-20kp/blob/main/src/public/assets/%20Slide%207.png?raw=true',
 ];
 
 export default function Gallery() {
@@ -17,7 +20,7 @@ export default function Gallery() {
             Bagimana Buku Birru Play Menarik
           </h2>
         </div>
-        
+
         <div className="grid md:grid-cols-2 gap-8">
           {images.map((src, index) => (
             <div className="aspect-square relative overflow-hidden rounded-xl cursor-pointer shadow-lg hover:shadow-xl transition-all duration-300">
